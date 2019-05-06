@@ -1,20 +1,29 @@
 {
-  "name": "test",
+  "name": "ye",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeco",
   "main": "index.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.16.4",
     "node-uuid": "^1.4.8",
     "p2": "^0.7.1",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.2.0"
   },
   "scripts": {
     "start": "node app.js"
   },
   "engines": {
     "node": "4.1.x"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhu8/lab2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhu8/lab2/issues"
+  },
+  "homepage": "https://github.com/dhu8/lab2#readme"
 }
